@@ -1,6 +1,6 @@
 # ClojureStudies - A Functional Programming aproach 
 
-Using Clojure (Version 1.8.0) and REPL (Version 0.3.7), this Clojure Project was made in some of the functional programming classes. The main purpose of this Clojure Project was learn, by implementing a hangman game, the fundamentals of Clojure and functional programming paradigm.
+Using Clojure (Version 1.8.0) and REPL (Version 0.3.7), this Clojure Project was made in some of the functional programming classes. The main purpose of this Clojure Project, was by the implementing of a hangman game, learn the fundamentals of Clojure and functional programming paradigm.
 
 ----------------------------------------
 
