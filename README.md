@@ -13,17 +13,21 @@ This project contains __4__ directories within the project root:
 * __src:__ idk;
 * __test:__ idk.
 
+----------------------------------------
+
 ## Instalation ##
 
 `brew install leiningen`
 
-## Project Generation ##
+### Project Generation ###
 
 `lein new app _project name_`
 
-## Clojure via terminal ##
+### Clojure via terminal ###
 
 `lein repl`
+
+----------------------------------------
 
 ## References Links ##
 
@@ -35,3 +39,6 @@ __Read Eval Print Loop:__
 
 __repl.it:__
 * <https://repl.it/>
+
+----------------------------------------
+
