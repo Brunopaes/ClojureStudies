@@ -15,7 +15,7 @@ This project contains __4__ directories within the project root:
 
 ----------------------------------------
 
-## Instalation ##
+## Installation ##
 
 `brew install leiningen`
 
