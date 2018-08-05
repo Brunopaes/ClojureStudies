@@ -1,5 +1,4 @@
-(ns fib.core
-  (:gen-class))
+;;This file is a fibonacci recursive function
 
 (defn fib[x]
     (if (= x 0) 0
@@ -9,8 +8,3 @@
     )
   )
 )
-
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
-  (println "Hello, World!"))
