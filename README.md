@@ -8,10 +8,10 @@ Using Clojure (Version 1.8.0) and REPL (Version 0.3.7), this Clojure Project was
 
 This project contains __4__ directories within the project root:
 
-* __doc:__ idk;
-* __resources:__ idk;
-* __src:__ idk;
-* __test:__ idk.
+* __doc:__ Clojure and Leiningen documentation;
+* __resources:__ Clojure and Leiningen dependencies;
+* __src:__ source code;
+* __test:__ test directory.
 
 ----------------------------------------
 
